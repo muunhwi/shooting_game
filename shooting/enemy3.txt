@@ -1,0 +1,5 @@
+1. shape : T
+2. attackShape : *
+3. cooldown : 5
+4. perAttackCount : 3
+5. movements : cross

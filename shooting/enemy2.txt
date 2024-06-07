@@ -1,0 +1,5 @@
+1. shape : X
+2. attackShape : %
+3. cooldown : 2
+4. perAttackCount : 2
+5. movements : right-left

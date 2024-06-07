@@ -1,0 +1,5 @@
+1. shape : O
+2. attackShape : *
+3. cooldown : -1
+4. perAttackCount : 0
+5. movements : over

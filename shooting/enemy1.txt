@@ -1,0 +1,5 @@
+1. shape : #
+2. attackShape : *
+3. cooldown : 7
+4. perAttackCount : 2
+5. movements : up-down

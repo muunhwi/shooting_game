@@ -1,0 +1,5 @@
+1. shape : Q
+2. attackShape : *
+3. cooldown : -1
+4. perAttackCount : 0
+5. movements : up-over
